@@ -1,5 +1,5 @@
-# Cpp-Chinese-Chess
-`Cpp-Chinese-Chess` 是一个中国象棋项目，基于 [Python-Chinese-Chess](https://github.com/windshadow233/python-chinese-chess) 进行改写与加速。
+# Cpp-Python-Chinese-Chess
+`Cpp-Python-Chinese-Chess` 是一个中国象棋项目，基于 [Python-Chinese-Chess](https://github.com/windshadow233/python-chinese-chess) 进行改写与加速。
 ## 项目简介
 本项目的主要目标是通过引入 C++ 扩展来提升中国象棋引擎的运行效率与执行速度。
 目前项目并不是完全由 C++ 实现的：
